@@ -2,11 +2,8 @@
 layout: default
 title: Home
 ---
+<link rel="stylesheet" href="/assets/css/style.css">
 
-# Hola, soy Luis 👋
+# ¡Hola, soy Luis 👋!
 
 Bienvenido a mi portfolio.
-
-- 💻 Desarrollador en formación
-- 🚀 Aprendiendo GitHub Pages
-- 🎨 Aquí irán mis proyectos
